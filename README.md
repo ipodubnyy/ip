@@ -1,1 +1,1 @@
-This is a personal repo for Ivan Poddubny
+This is a personal repo for Ivan Poddubnyy
