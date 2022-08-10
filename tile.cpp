@@ -5,17 +5,8 @@ using namespace std;
 
 int main()
 {
-  float tileLong;
-  float tileShort;
-
-  float roomSideA;
-  float roomSideB;
-  
-  float new_tileLong;
-  float new_tileShort;
-
-  float new_roomSideA;
-  float new_roomSideB;
+  float tileLong, tileShort, roomSideA, roomSideB;
+  float new_tileLong, new_tileShort, new_roomSideA, new_roomSideB;
   
   cout << "Enter the length of the room (meters or feet): ";
   cin >> roomSideA;
