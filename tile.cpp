@@ -36,7 +36,7 @@ int main()
       new_roomSideA = (roomSideA * 12) * 2.54; // all in inches now
       new_roomSideB = (roomSideB * 12) * 2.54; // all in inches now
       new_tileLong = tileLong * 2.54;
-      new_tileShort = tileShort * 2.54;
+      new_tileShort = tileShort * 2.54; 
       cout << "done" << endl;
     }
     else if (systemUsed == "i")
